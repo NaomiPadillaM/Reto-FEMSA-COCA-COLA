@@ -9,7 +9,7 @@ En este [link](https://adrian-landaverde.shinyapps.io/ProyectoCocaCola3/) encont
 
 En el documento pdf se encuentra en análisis completo y explicado, desde la fase 1 hasta el apartado de resultados.
 
-<img src="/images/FEMSA_potencia_c1.png" width=50% height=50%>
+<img src="/images/FEMSA_potencia_c1.png" width="300" height="600">
 
-<img src="/images/FEMSA_var_ciel_c1.png" width=50% height=50%>
+<img src="/images/FEMSA_var_ciel_c1.png"  width="300" height="600">
 
